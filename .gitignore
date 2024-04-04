@@ -1,0 +1,7 @@
+node_modlues/
+.viscode/
+
+*.log
+/.vs
+.vs/
+node_modules
